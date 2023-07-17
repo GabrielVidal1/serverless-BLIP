@@ -1,3 +1,6 @@
 potassium
 torch
 transformers
+eva-decord
+salesforce-lavis
+Pillow
